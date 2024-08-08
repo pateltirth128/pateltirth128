@@ -1,5 +1,6 @@
 Hey there, I’m Tirth Patel
-If want to contact me, you just want to request me on IG- pateltirth128
+If want to contact me, reach out me on IG- pateltirth128 or message me on Linkdin, i'd: "www.linkedin.com/in/pateltirth128".
+I'm just 20, i know every thing about computer includes hardware to software, motherboard to oprating system.
 Nothing to say at the moment!
 See you soon.
 <!---
