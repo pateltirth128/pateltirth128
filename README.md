@@ -1,0 +1,49 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Tirth Patel — Computer Science student at the University of Regina focused on blue team and cloud security" width="100%">
+</picture>
+
+</div>
+
+## 👋 Hi, I'm Tirth
+
+I'm a Computer Science student at the **University of Regina** (U of R Co-op Program) building toward a career in **blue team** and **cloud security engineering**. I learn by building hands-on labs: collecting logs, writing detections and turning raw events into alerts.
+
+## 🛡️ Focus
+
+- **Security monitoring:** SIEM, log analysis, alerting
+- **Cloud security:** AWS logging and visibility with CloudTrail
+- **Threat intelligence:** IP and domain reputation lookups
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**AWS CloudTrail Security Monitoring**](https://github.com/pateltirth128/aws-cloudtrail-security-monitoring) | Cloud activity logging and alerting on AWS | AWS CloudTrail |
+| **Wazuh SIEM Homelab** *(in progress)* | Home SOC lab detecting brute-force attacks | Wazuh |
+| [**Cerberus Threat Monitoring Dashboard**](https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard) | Threat dashboard for IP and domain reputation | JavaScript |
+
+## 🧰 Stack
+
+<p>
+  <img src="https://img.shields.io/badge/AWS%20CloudTrail-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS CloudTrail">
+  <img src="https://img.shields.io/badge/Wazuh%20SIEM-005571?style=for-the-badge&logoColor=white" alt="Wazuh SIEM">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+## 🎓 Education
+
+**BSc Computer Science** · University of Regina · 2024 – 2028 · Co-op Program
+
+## 🤝 Connect
+
+Open to co-op opportunities in security operations and cloud security.
+
+[![GitHub](https://img.shields.io/badge/GitHub-pateltirth128-181717?style=for-the-badge&logo=github)](https://github.com/pateltirth128)
+<!-- Add your LinkedIn / portfolio badge here, e.g.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+-->
