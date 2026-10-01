@@ -23,7 +23,7 @@ I'm a Computer Science student at the **University of Regina** (U of R Co-op Pro
 | Project | What it does | Stack |
 |---|---|---|
 | [**AWS CloudTrail Security Monitoring**](https://github.com/pateltirth128/aws-cloudtrail-security-monitoring) | Cloud activity logging and alerting on AWS | AWS CloudTrail |
-| **Wazuh SIEM Homelab** *(in progress)* | Home SOC lab detecting brute-force attacks | Wazuh |
+| [**Wazuh SIEM Homelab**](https://github.com/pateltirth128/YOUR_WAZUH_REPO) | Home SOC lab detecting brute-force attacks | Wazuh |
 | [**Cerberus Threat Monitoring Dashboard**](https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard) | Threat dashboard for IP and domain reputation | JavaScript |
 
 ## 🧰 Stack
@@ -44,6 +44,6 @@ I'm a Computer Science student at the **University of Regina** (U of R Co-op Pro
 Open to co-op opportunities in security operations and cloud security.
 
 [![GitHub](https://img.shields.io/badge/GitHub-pateltirth128-181717?style=for-the-badge&logo=github)](https://github.com/pateltirth128)
-<!-- Add your LinkedIn / portfolio badge here, e.g.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
--->
+[![Instagram](https://img.shields.io/badge/Instagram-YOUR_HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_HANDLE)
+[![Discord](https://img.shields.io/badge/Discord-YOUR_USERNAME-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_USER_ID)
