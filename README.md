@@ -23,8 +23,8 @@ I'm a Computer Science student at the **University of Regina** (U of R Co-op Pro
 | Project | What it does | Stack |
 |---|---|---|
 | [**AWS CloudTrail Security Monitoring**](https://github.com/pateltirth128/aws-cloudtrail-security-monitoring) | Cloud activity logging and alerting on AWS | AWS CloudTrail |
-| [**Wazuh SIEM Homelab**](https://github.com/pateltirth128/YOUR_WAZUH_REPO) | Home SOC lab detecting brute-force attacks | Wazuh |
 | [**Cerberus Threat Monitoring Dashboard**](https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard) | Threat dashboard for IP and domain reputation | JavaScript |
+| **Wazuh SIEM Homelab** *(in progress)* | Home lab detecting brute-force attacks in real time | Wazuh |
 
 ## 🧰 Stack
 
