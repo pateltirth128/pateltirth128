@@ -23,9 +23,9 @@ I'm a Computer Science student at the **University of Regina**, part of the U of
 
 | Project | What it is |
 |---|---|
-| **Wazuh SIEM Homelab** | Home SOC lab that detects brute-force login attempts |
 | [**AWS CloudTrail Monitoring**](https://github.com/pateltirth128/aws-cloudtrail-security-monitoring) | Logging AWS account activity with CloudTrail and alerting on it |
 | [**Cerberus Threat Dashboard**](https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard) | JavaScript dashboard for IP and domain reputation lookups |
+| **Wazuh SIEM Homelab** 🚧 | *In progress:* home SOC lab for detecting brute-force login attempts |
 
 ## 🧰 Tools I'm using
 
