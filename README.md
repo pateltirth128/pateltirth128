@@ -3,14 +3,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Tirth Patel — Computer Science student at the University of Regina, interested in blue team and cloud security" width="100%">
+  <img src="./dark.svg" alt="Tirth Patel - Computer Science student at the University of Regina, interested in blue team and cloud security" width="100%">
 </picture>
 
 </div>
 
 ## 👋 Hi, I'm Tirth
 
-I'm a Computer Science student at the **University of Regina**, looking for a co-op / internship. I'm just someone who's genuinely curious about security, mostly **blue team** and **cloud security**, and I learn by building small labs and seeing what breaks.
+I'm a Computer Science student at the **University of Regina**, looking for a co-op / internship. I'm just someone who's genuinely curious about security, and I learn by building small labs and seeing what breaks.
 
 ## 🛡️ What I'm learning
 
@@ -37,7 +37,7 @@ I'm a Computer Science student at the **University of Regina**, looking for a co
 
 ## 🎓 Education
 
-**BSc Computer Science** · University of Regina · 2024 – 2028
+**BSc Computer Science** · University of Regina · 2024 - 2028
 
 ## 🤝 Connect
 
