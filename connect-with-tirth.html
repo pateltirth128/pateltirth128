@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connect with Tirth</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f3f6f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 16px;
+            box-sizing: border-box;
+        }
+
+        .box {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+            max-width: 400px;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: #555;
+            line-height: 1.5;
+        }
+
+        button {
+            margin-top: 20px;
+            background: #0a66c2;
+            color: white;
+            border: none;
+            padding: 14px 25px;
+            border-radius: 25px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #004182;
+        }
+
+        #status {
+            min-height: 1.5em;
+            margin-top: 14px;
+            font-size: 14px;
+            color: #0a66c2;
+        }
+
+        .fallback {
+            display: block;
+            margin-top: 6px;
+            font-size: 13px;
+            color: #777;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="box">
+
+    <h1>Connect with Tirth 👋</h1>
+
+    <p>
+        Click below to connect with me on LinkedIn.
+        Your introduction will automatically be copied.
+    </p>
+
+    <button onclick="connectLinkedIn()">
+        Connect on LinkedIn
+    </button>
+
+    <div id="status"></div>
+
+    <a class="fallback" href="https://www.linkedin.com/in/tirth1228/">
+        or open my LinkedIn directly
+    </a>
+
+</div>
+
+
+<script>
+
+const LINKEDIN_URL = "https://www.linkedin.com/in/tirth1228/";
+
+const message =
+`Hi Tirth,
+Happy to connect, I'm `;
+
+// Older browsers / some in-app browsers block navigator.clipboard,
+// so fall back to the classic hidden-textarea copy.
+function fallbackCopy(text) {
+    const area = document.createElement("textarea");
+    area.value = text;
+    area.style.position = "fixed";
+    area.style.opacity = "0";
+    document.body.appendChild(area);
+    area.select();
+    let ok = false;
+    try { ok = document.execCommand("copy"); } catch (e) {}
+    document.body.removeChild(area);
+    return ok;
+}
+
+async function connectLinkedIn() {
+
+    const status = document.getElementById("status");
+    let copied = false;
+
+    try {
+        await navigator.clipboard.writeText(message);
+        copied = true;
+    } catch (e) {
+        copied = fallbackCopy(message);
+    }
+
+    status.textContent = copied
+        ? "Intro copied ✓ Paste it in the note. Opening LinkedIn…"
+        : "Opening LinkedIn…";
+
+    setTimeout(function() {
+        window.location.href = LINKEDIN_URL;
+    }, 900);
+
+}
+
+</script>
+
+</body>
+</html>
