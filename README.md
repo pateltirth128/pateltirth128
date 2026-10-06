@@ -14,10 +14,11 @@ I'm a Computer Science student at the **University of Regina**, part of the U of
 
 ## 🔭 What I'm focused on
 
-- Security monitoring with a SIEM (Wazuh)
 - Log analysis and detection basics
 - AWS logging and alerting with CloudTrail
 - Threat intel lookups for IPs and domains
+- Security monitoring with a SIEM (Wazuh)
+
 
 ## 🛠️ Projects
 
@@ -25,7 +26,7 @@ I'm a Computer Science student at the **University of Regina**, part of the U of
 |---|---|
 | [**AWS CloudTrail Monitoring**](https://github.com/pateltirth128/aws-cloudtrail-security-monitoring) | Logging AWS account activity with CloudTrail and alerting on it |
 | [**Cerberus Threat Dashboard**](https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard) | JavaScript dashboard for IP and domain reputation lookups |
-| **Wazuh SIEM Homelab** 🚧 | *In progress:* home SOC lab for detecting brute-force login attempts |
+| **Wazuh SIEM Homelab** 🚧*In progress:* | Home SOC lab for detecting brute-force login attempts |
 
 ## 🧰 Tools I'm using
 
@@ -39,7 +40,7 @@ I'm a Computer Science student at the **University of Regina**, part of the U of
 
 <p>
   <a href="https://www.linkedin.com/in/tirth1228/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="https://www.instagram.com/_tirth128/"><img src="https://img.shields.io/badge/Instagram-@__tirth128-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @_tirth128"></a>
+  <a href="https://www.instagram.com/_tirth128/"><img src="https://img.shields.io/badge/Instagram-@_tirth128-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @_tirth128"></a>
   <a href="https://t.me/TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://discord.com/users/DISCORD_USER_ID"><img src="https://img.shields.io/badge/Discord-Add_me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
