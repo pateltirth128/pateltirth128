@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connect with Tirth</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f3f6f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .box {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+            max-width: 400px;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: #555;
+            line-height: 1.5;
+        }
+
+        button {
+            margin-top: 20px;
+            background: #0a66c2;
+            color: white;
+            border: none;
+            padding: 14px 25px;
+            border-radius: 25px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #004182;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="box">
+
+    <h1>Connect with Tirth 👋</h1>
+
+    <p>
+        Click below to connect with me on LinkedIn.
+        Your introduction will automatically be copied.
+    </p>
+
+    <button onclick="connectLinkedIn()">
+        Connect on LinkedIn
+    </button>
+
+</div>
+
+
+<script>
+
+function connectLinkedIn() {
+
+    const message =
+`Hi Tirth,
+Happy to connect, I'm `;
+
+    navigator.clipboard.writeText(message);
+
+    setTimeout(function() {
+        window.location.href =
+        "https://www.linkedin.com/in/tirth1228/";
+    }, 400);
+
+}
+
+</script>
+
+</body>
+</html>
