@@ -44,6 +44,6 @@ I'm a Computer Science student at the **University of Regina**, looking for a co
 Looking for a co-op work term or internship. Happy to chat about security, labs, or anything I'm still figuring out.
 
 [![GitHub](https://img.shields.io/badge/GitHub-pateltirth128-181717?style=for-the-badge&logo=github)](https://github.com/pateltirth128)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin)](https://pateltirth128.github.io/pateltirth128/connect-with-tirth.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tirth1228/)
 [![Instagram](https://img.shields.io/badge/Instagram-YOUR_HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_HANDLE)
 [![Discord](https://img.shields.io/badge/Discord-YOUR_USERNAME-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_USER_ID)
