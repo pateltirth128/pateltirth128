@@ -95,11 +95,7 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
 
 ## 🚀 Tools I want to work with
 
-<p align="center"><sub>Click a group to open it</sub></p>
-
-<details>
-<summary><b>🕶 Privacy and anonymity</b></summary>
-<br>
+<h4 align="center">🕶 Privacy and anonymity</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor Browser" />
   <img src="https://img.shields.io/badge/Onion_Services-59316B?style=for-the-badge&logo=torproject&logoColor=white" alt="Onion Services" />
@@ -107,22 +103,16 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
   <img src="https://img.shields.io/badge/Qubes_OS-3874D8?style=for-the-badge&logo=qubesos&logoColor=white" alt="Qubes OS" />
   <img src="https://img.shields.io/badge/Whonix-1C2B3A?style=for-the-badge" alt="Whonix" />
 </p>
-</details>
 
-<details>
-<summary><b>💿 Bootable and security OS</b></summary>
-<br>
+<h4 align="center">💿 Bootable and security OS</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Parrot_OS-0E7490?style=for-the-badge&logo=parrotsecurity&logoColor=white" alt="Parrot OS" />
   <img src="https://img.shields.io/badge/Rufus-2C3E50?style=for-the-badge" alt="Rufus" />
   <img src="https://img.shields.io/badge/Ventoy-1E8449?style=for-the-badge" alt="Ventoy" />
 </p>
-</details>
 
-<details>
-<summary><b>🛡 Blue team and SOC</b></summary>
-<br>
+<h4 align="center">🛡 Blue team and SOC</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic SIEM" />
@@ -133,48 +123,35 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
   <img src="https://img.shields.io/badge/Velociraptor-3B3B3B?style=for-the-badge" alt="Velociraptor" />
   <img src="https://img.shields.io/badge/TheHive-B7950B?style=for-the-badge" alt="TheHive" />
 </p>
-</details>
 
-<details>
-<summary><b>🌐 Network</b></summary>
-<br>
+<h4 align="center">🌐 Network</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap" />
   <img src="https://img.shields.io/badge/tcpdump-2F4F4F?style=for-the-badge" alt="tcpdump" />
 </p>
-</details>
 
-<details>
-<summary><b>☁ Cloud security</b></summary>
-<br>
+<h4 align="center">☁ Cloud security</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_GuardDuty-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS GuardDuty" />
   <img src="https://img.shields.io/badge/AWS_Security_Hub-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Security Hub" />
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge" alt="Microsoft Sentinel" />
 </p>
-</details>
 
-<details>
-<summary><b>🔎 Forensics</b></summary>
-<br>
+<h4 align="center">🔎 Forensics</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Autopsy-1B4F72?style=for-the-badge" alt="Autopsy" />
   <img src="https://img.shields.io/badge/Volatility-6C3483?style=for-the-badge" alt="Volatility" />
   <img src="https://img.shields.io/badge/FTK_Imager-34495E?style=for-the-badge" alt="FTK Imager" />
 </p>
-</details>
 
-<details>
-<summary><b>🧪 Testing and vulnerabilities</b></summary>
-<br>
+<h4 align="center">🧪 Testing and vulnerabilities</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" alt="Nessus" />
   <img src="https://img.shields.io/badge/OpenVAS-66C430?style=for-the-badge" alt="OpenVAS" />
 </p>
-</details>
 
 ---
 
