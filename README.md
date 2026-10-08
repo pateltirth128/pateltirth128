@@ -1,6 +1,10 @@
+<div align="center">
+
+<img src="name.png" height="40" alt="Tirth Patel" />
+
 <br><br>
 
-<img src="icon.png" width="180" alt="Tirth Patel logo" />
+<img src="icon.png" width="160" alt="Tirth Patel logo" />
 
 **Computer Science student at the University of Regina**<br>
 Blue team · SOC · Cloud security
@@ -31,46 +35,47 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
 
 ## 🛠 Projects
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard">
-        <img src="cerberus.png" width="90" alt="Cerberus logo" /><br>
-        <b>Cerberus</b>
-      </a>
-      <br><sub>Threat monitoring dashboard</sub>
+    <td width="140" align="center">
+      <a href="https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard"><img src="cerberus.png" width="100" alt="Cerberus logo" /></a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pateltirth128/aws-cloudtrail-security-monitoring">
-        <img src="aws.png" width="90" alt="AWS logo" /><br>
-        <b>AWS CloudTrail</b>
-      </a>
-      <br><sub>Security monitoring and alerts</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pateltirth128/flappy-bird">
-        <img src="flappy-bird.png" width="90" alt="Flappy Bird logo" /><br>
-        <b>Flappy Bird</b>
-      </a>
-      <br><sub>Left to Right (and Back)</sub>
+    <td>
+      <h3><a href="https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard">Cerberus Threat Monitoring Dashboard</a></h3>
+      Checks IPs, domains and servers against 60+ blacklists, with DNS, SSL, WHOIS and email security lookups.
+      <br><br>
+      <b>Built with:</b> JavaScript
     </td>
   </tr>
 </table>
 
-<details>
-<summary><b>📂 Project details</b></summary>
-<br>
+<table>
+  <tr>
+    <td width="140" align="center">
+      <a href="https://github.com/pateltirth128/aws-cloudtrail-security-monitoring"><img src="aws.png" width="100" alt="AWS logo" /></a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/pateltirth128/aws-cloudtrail-security-monitoring">AWS CloudTrail Security Monitoring</a></h3>
+      Real-time alerts for backdoor IAM accounts, privilege escalation and log tampering, tested with a simulated attack on my own AWS account.
+      <br><br>
+      <b>Built with:</b> AWS CloudTrail
+    </td>
+  </tr>
+</table>
 
-**Cerberus Threat Monitoring Dashboard**
-Checks IPs, domains and servers against 60+ blacklists, with DNS, SSL, WHOIS and email security lookups.
-
-**AWS CloudTrail Security Monitoring**
-Real-time alerts for backdoor IAM accounts, privilege escalation and log tampering, tested with a simulated attack on my own AWS account.
-
-**Flappy Bird: Left to Right (and Back)**
-A Flappy Bird twist built in both Python (pygame) and C++ (raylib), where the bird turns around every 5 points.
-
-</details>
+<table>
+  <tr>
+    <td width="140" align="center">
+      <a href="https://github.com/pateltirth128/flappy-bird"><img src="flappy.png" width="100" alt="Flappy Bird logo" /></a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/pateltirth128/flappy-bird">Flappy Bird: Left to Right (and Back)</a></h3>
+      A Flappy Bird twist where the bird turns around every 5 points.
+      <br><br>
+      <b>Built with:</b> Python (pygame), C++ (raylib)
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -86,15 +91,4 @@ A Flappy Bird twist built in both Python (pygame) and C++ (raylib), where the bi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateltirth128&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com/?user=pateltirth128&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tirth1228"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjYuNSIgY3k9IjYuNSIgcj0iMiIgZmlsbD0iIzBBNjZDMiIvPjxyZWN0IHg9IjQuNzUiIHk9IjkuNSIgd2lkdGg9IjMuNSIgaGVpZ2h0PSIxMCIgZmlsbD0iIzBBNjZDMiIvPjxwYXRoIGQ9Ik0xMC41IDkuNWgzLjN2MS41Yy42LTEgMS44LTEuOCAzLjQtMS44IDIuNiAwIDMuMyAxLjcgMy4zIDQuMnY2LjFoLTMuNXYtNS40YzAtMS4yLS4zLTItMS40LTItMS4yIDAtMS43LjktMS43IDIuMXY1LjNoLTMuNHoiIGZpbGw9IiMwQTY2QzIiLz48L3N2Zz4K" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/_tirth128"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:pateltirth1228@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+  <img src="https://streak-stats.demolab.com/?user=pateltirth128&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak"
