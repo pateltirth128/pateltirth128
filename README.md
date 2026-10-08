@@ -20,7 +20,6 @@
 - Looking for a co-op or internship with the help of U of R Co-op Program/ External too
 - Learning new things
 
-<details>
 <summary><b>👋 More about me</b></summary>
 <br>
 
