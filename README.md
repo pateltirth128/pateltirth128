@@ -40,8 +40,11 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
     </td>
     <td>
       <h3><a href="https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard">Cerberus Threat Monitoring Dashboard</a></h3>
-      Checks IPs, domains and servers against 60+ blacklists, with DNS, SSL, WHOIS and email security lookups.
-      <br><br>
+      <ul>
+        <li>You type in a website or internet address.</li>
+        <li>It checks 60+ "bad lists" to see if that address is known for trouble.</li>
+        <li>It shows all the answers on one easy screen.</li>
+      </ul>
       <b>Built with:</b> JavaScript
     </td>
   </tr>
@@ -54,8 +57,11 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
     </td>
     <td>
       <h3><a href="https://github.com/pateltirth128/aws-cloudtrail-security-monitoring">AWS CloudTrail Security Monitoring</a></h3>
-      Real-time alerts for backdoor IAM accounts, privilege escalation and log tampering, tested with a simulated attack on my own AWS account.
-      <br><br>
+      <ul>
+        <li>It watches my Amazon cloud account all the time, like a security camera.</li>
+        <li>If someone sneaks in, gives themselves extra power, or tries to erase the records, it sends an alert right away.</li>
+        <li>I tested it by pretending to break into my own account.</li>
+      </ul>
       <b>Built with:</b> AWS CloudTrail
     </td>
   </tr>
@@ -68,8 +74,11 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
     </td>
     <td>
       <h3><a href="https://github.com/pateltirth128/flappy-bird">Flappy Bird: Left to Right (and Back)</a></h3>
-      A Flappy Bird twist where the bird turns around every 5 points.
-      <br><br>
+      <ul>
+        <li>It's my own version of the Flappy Bird game.</li>
+        <li>Every 5 points, the bird turns around and flies the other way.</li>
+        <li>I built it twice, in two different programming languages.</li>
+      </ul>
       <b>Built with:</b> Python (pygame), C++ (raylib)
     </td>
   </tr>
