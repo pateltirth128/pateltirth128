@@ -20,9 +20,12 @@ I'm a Computer Science student at the **University of Regina**, part of the U of
 
 | Project | What it is |
 |---|---|
-| [**AWS CloudTrail Monitoring**](https://github.com/pateltirth128/aws-cloudtrail-security-monitoring) | Logging AWS account activity with CloudTrail and alerting on it |
-| [**Cerberus Threat Dashboard**](https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard) | JavaScript dashboard for IP and domain reputation lookups |
-| **Wazuh SIEM Homelab** 🚧*In progress:* | Home SOC lab for detecting brute-force login attempts |
+| [AWS CloudTrail Monitoring](https://github.com/pateltirth128/aws-cloudtrail-security-monitoring) | Logging AWS account activity with CloudTrail and alerting on it |
+| [Cerberus Threat Dashboard](https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard) | JavaScript dashboard for IP and domain reputation lookups |
+| Wazuh SIEM Homelab 🚧 *In progress* | Home SOC lab for detecting brute-force login attempts |
+| [Flappy Bird](https://github.com/pateltirth128/flappy-bird) | Flappy Bird in Python that flies left to right and turns around every 5 points |
+| [tirth-portfolio](https://github.com/pateltirth128/tirth-portfolio) | My personal website: who I am, what I've built, and how to reach me |
+
 
 ## 🧰 Tools I'm using
 
