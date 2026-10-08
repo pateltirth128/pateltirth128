@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="name.png" height="40" alt="Tirth Patel" />
-
 <br><br>
 
 <img src="icon.png" width="160" alt="Tirth Patel logo" />
