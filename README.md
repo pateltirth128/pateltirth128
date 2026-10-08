@@ -14,11 +14,7 @@ I'm a Computer Science student at the **University of Regina**, part of the U of
 
 ## 🔭 What I'm focused on
 
-- Log analysis and detection basics
-- AWS logging and alerting with CloudTrail
-- Threat intel lookups for IPs and domains
-- Security monitoring with a SIEM (Wazuh)
-
+- Learning New Things.
 
 ## 🛠️ Projects
 
