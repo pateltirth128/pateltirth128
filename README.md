@@ -17,7 +17,7 @@
 
 ## 🔭 What I'm focused on
 
-- Looking for a co-op or internship through the U of R Co-op Program
+- Looking for a co-op or internship with the help of U of R Co-op Program/ External too
 - Learning new things
 
 <details>
