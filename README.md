@@ -18,7 +18,7 @@
 - Looking for a co-op or internship with the help of U of R Co-op Program/ External too
 - Learning new things
 
-<summary><b>👋 More about me</b></summary>
+## ✡︎ More about me
 <br>
 
 Away from the screen, I love playing chess, and underwater swimming is my favourite hobby. I'm also fascinated by the deep ocean. Most of it has never been explored by anyone, and I'd love to see some of it one day.
