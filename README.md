@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Tirth Patel 👋
+# Hey, I'm Tirth Patel 😉
 
 **Computer Science student at the University of Regina**
 
