@@ -131,6 +131,12 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
   <img src="https://img.shields.io/badge/Ventoy-1E8449?style=for-the-badge" alt="Ventoy" />
 </p>
 
+<h4 align="center">🔎 Forensics</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Autopsy-1B4F72?style=for-the-badge" alt="Autopsy" />
+  <img src="https://img.shields.io/badge/Volatility-6C3483?style=for-the-badge" alt="Volatility" />
+  <img src="https://img.shields.io/badge/FTK_Imager-34495E?style=for-the-badge" alt="FTK Imager" />
+</p>
 
 <h4 align="center">🌐 Network</h4>
 <p align="center">
@@ -140,13 +146,6 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
 </p>
 
 
-
-<h4 align="center">🔎 Forensics</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Autopsy-1B4F72?style=for-the-badge" alt="Autopsy" />
-  <img src="https://img.shields.io/badge/Volatility-6C3483?style=for-the-badge" alt="Volatility" />
-  <img src="https://img.shields.io/badge/FTK_Imager-34495E?style=for-the-badge" alt="FTK Imager" />
-</p>
 
 ---
 
