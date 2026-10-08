@@ -90,7 +90,7 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
 
 ## 🚀 Tools I want to work with
 
-<h4 align="center">🛡 Blue team and SOC</h4>
+<h4 align="center">🛡 Things I Love </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic SIEM" />
