@@ -1,12 +1,15 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" width="100%" alt="Tirth Patel · CS student at the University of Regina learning blue team and cloud security through hands-on labs">
-</picture>
+# Tirth Patel | Portfolio
+
+**Computer Science student at the University of Regina**
+Blue team · SOC · Cloud security
+
+[Live site](https://tirth1228-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tirth1228) · [Email](mailto:pateltirth1228@gmail.com)
 
 </div>
+
+---
 
 ## 👋 Hey, I'm Tirth
 
