@@ -91,6 +91,18 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
 
 ## 🚀 Tools I want to work with
 
+<h4 align="center">🛡 Blue team and SOC</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic SIEM" />
+  <img src="https://img.shields.io/badge/Security_Onion-1B1F23?style=for-the-badge" alt="Security Onion" />
+  <img src="https://img.shields.io/badge/Suricata-EF7D00?style=for-the-badge" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Zeek-2E4053?style=for-the-badge" alt="Zeek" />
+  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge" alt="Sysmon" />
+  <img src="https://img.shields.io/badge/Velociraptor-3B3B3B?style=for-the-badge" alt="Velociraptor" />
+  <img src="https://img.shields.io/badge/TheHive-B7950B?style=for-the-badge" alt="TheHive" />
+</p>
+
 <h4 align="center">🕶 Privacy and anonymity</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor Browser" />
@@ -108,16 +120,12 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
   <img src="https://img.shields.io/badge/Ventoy-1E8449?style=for-the-badge" alt="Ventoy" />
 </p>
 
-<h4 align="center">🛡 Blue team and SOC</h4>
+<h4 align="center">🧪 Testing and vulnerabilities</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic SIEM" />
-  <img src="https://img.shields.io/badge/Security_Onion-1B1F23?style=for-the-badge" alt="Security Onion" />
-  <img src="https://img.shields.io/badge/Suricata-EF7D00?style=for-the-badge" alt="Suricata" />
-  <img src="https://img.shields.io/badge/Zeek-2E4053?style=for-the-badge" alt="Zeek" />
-  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge" alt="Sysmon" />
-  <img src="https://img.shields.io/badge/Velociraptor-3B3B3B?style=for-the-badge" alt="Velociraptor" />
-  <img src="https://img.shields.io/badge/TheHive-B7950B?style=for-the-badge" alt="TheHive" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" alt="Nessus" />
+  <img src="https://img.shields.io/badge/OpenVAS-66C430?style=for-the-badge" alt="OpenVAS" />
 </p>
 
 <h4 align="center">🌐 Network</h4>
@@ -139,14 +147,6 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
   <img src="https://img.shields.io/badge/Autopsy-1B4F72?style=for-the-badge" alt="Autopsy" />
   <img src="https://img.shields.io/badge/Volatility-6C3483?style=for-the-badge" alt="Volatility" />
   <img src="https://img.shields.io/badge/FTK_Imager-34495E?style=for-the-badge" alt="FTK Imager" />
-</p>
-
-<h4 align="center">🧪 Testing and vulnerabilities</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" alt="Nessus" />
-  <img src="https://img.shields.io/badge/OpenVAS-66C430?style=for-the-badge" alt="OpenVAS" />
 </p>
 
 ---
