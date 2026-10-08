@@ -34,6 +34,11 @@ I'm a Computer Science student at the **University of Regina**, part of the U of
 ![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-3B82F6?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails_OS-56347C?style=flat-square&logo=tails&logoColor=white)
 
 ## 🤝 Connect
 
