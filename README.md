@@ -1,10 +1,11 @@
 
 <br><br>
 
-<img src="icon.png" width="160" alt="Tirth Patel logo" />
+<img src="icon.png" width="200
+  " alt="Tirth Patel logo" />
 
 **Computer Science student at the University of Regina**<br>
-Blue team · SOC · Cloud security
+
 
 [![Live site](https://img.shields.io/badge/Live_site-1F2937?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEX%2F2Nf%2Fy8r%2F4eH%2F1tX%2FwL7%2Fv7%2F%2Ff3%2F%2FAAD%2F%2F38AAAD%2Ft7b%2Fxsb%2F%2Ff3%2F1NP%2F19b%2FqqpvGHh%2FAAAAEHRSTlPmnipp9wQCAQIA%2FfsI%2Fk8Dii6b7AAAAWlJREFUeNot0L9LG2EcwOHP%2B33PwxiTnJhCRC3%2BGAwWaUQixbW4CEomdZFeBQcHMeIf4OYmWMHhAsWAg1gp2D%2Bgk0SpcHggCEHU6KAuNRcEkeAlDro%2F06McAHs7sPMABoB2ptImAAIws9v7c8wGUA6Y9Y67UPy6%2Bo6TxlWImwFcEBiaywJhe%2B0lhTDsLpQA%2Fn41zjD0cfrjBkBx5TaZNQamc%2F8bUPXNvc%2FrjR%2FUQeUJJfDYBHpFTkzAikbDFkwu6KL7BW3SVqs%2Fs1eQ0CIE0nPXqeHXiGwBg%2FSOXgeAK0cWeECXBn7LOZACpIZqLap%2Fs%2Bvllp7HMHL6PZGX06WhVbmIULqsJJY95XjpjopYPMT8%2BJ9%2B4duaX4%2FyEPO5mSkJPywo12JAU5ARKAHljA%2FYb1dQbQGqeQzoAiL7V5h9BS1k%2FXmLyKHFy3gIPX5v98Wabb0z8ak9QDmQzHTPNbBhuDmUg1kFL5XyAF4BZJ5vBAUj99gAAAAASUVORK5CYII%3D)](https://tirth1228-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjYuNSIgY3k9IjYuNSIgcj0iMiIgZmlsbD0iIzBBNjZDMiIvPjxyZWN0IHg9IjQuNzUiIHk9IjkuNSIgd2lkdGg9IjMuNSIgaGVpZ2h0PSIxMCIgZmlsbD0iIzBBNjZDMiIvPjxwYXRoIGQ9Ik0xMC41IDkuNWgzLjN2MS41Yy42LTEgMS44LTEuOCAzLjQtMS44IDIuNiAwIDMuMyAxLjcgMy4zIDQuMnY2LjFoLTMuNXYtNS40YzAtMS4yLS4zLTItMS40LTItMS4yIDAtMS43LjktMS43IDIuMXY1LjNoLTMuNHoiIGZpbGw9IiMwQTY2QzIiLz48L3N2Zz4K)](https://www.linkedin.com/in/tirth1228)
