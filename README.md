@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon.png" width="96" alt="Tirth Patel logo" />
+<img src="icon.png" width="200" alt="Tirth Patel logo" />
 
 # Tirth Patel
 
