@@ -94,8 +94,3 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateltirth128&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com/?user=pateltirth128&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak"
