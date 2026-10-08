@@ -1,7 +1,6 @@
-
 <br><br>
 
-<img src="icon.png" width="160" alt="Tirth Patel logo" />
+<img src="icon.png" width="180" alt="Tirth Patel logo" />
 
 **Computer Science student at the University of Regina**<br>
 Blue team · SOC · Cloud security
