@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="icon.png" width="200" alt="Tirth Patel logo" />
+# <img src="icon.png" width="200" alt="Tirth Patel logo" />
 
-# Tirth Patel
-
+ 
 **Computer Science student at the University of Regina**
 Blue team · SOC · Cloud security
 
