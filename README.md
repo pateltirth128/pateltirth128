@@ -34,7 +34,7 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
 
 <table>
   <tr>
-    <td width="140" align="center">
+    <td width="160" align="center">
       <a href="https://github.com/pateltirth128/aws-cloudtrail-security-monitoring"><img src="aws.png" width="100" alt="AWS logo" /></a>
     </td>
     <td>
@@ -47,11 +47,8 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
       <b>Built with:</b> AWS CloudTrail
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="140" align="center">
+    <td width="160" align="center">
       <a href="https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard"><img src="cerberus.png" width="100" alt="Cerberus logo" /></a>
     </td>
     <td>
@@ -64,11 +61,8 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
       <b>Built with:</b> JavaScript
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="140" align="center">
+    <td width="160" align="center">
       <a href="https://github.com/pateltirth128/flappy-bird"><img src="flappy.png" width="100" alt="Flappy Bird logo" /></a>
     </td>
     <td>
