@@ -21,8 +21,6 @@
 <summary><b>👋 More about me</b></summary>
 <br>
 
-I'm a Computer Science student at the University of Regina (2024 to 2028). I like learning by building: setting things up, breaking them on purpose, and seeing what the logs show. Right now I'm working on a Wazuh SIEM homelab.
-
 Away from the screen, I love playing chess, and underwater swimming is my favourite hobby. I'm also fascinated by the deep ocean. Most of it has never been explored by anyone, and I'd love to see some of it one day.
 
 ---
