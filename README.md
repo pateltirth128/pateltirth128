@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="name.png" height="40" alt="Tirth Patel" />
 
 <br><br>
 
