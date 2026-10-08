@@ -17,9 +17,8 @@
 
 ## 🔭 What I'm focused on
 
-- Learning blue team operations and SOC work
-- Building hands-on cloud security projects on AWS
 - Looking for a co-op or internship through the U of R Co-op Program
+- Learning new things
 
 <details>
 <summary><b>👋 More about me</b></summary>
