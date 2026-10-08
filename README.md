@@ -35,23 +35,6 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
 <table>
   <tr>
     <td width="140" align="center">
-      <a href="https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard"><img src="cerberus.png" width="100" alt="Cerberus logo" /></a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard">Cerberus Threat Monitoring Dashboard</a></h3>
-      <ul>
-        <li>You type in a website or internet address.</li>
-        <li>It checks 60+ "bad lists" to see if that address is known for trouble.</li>
-        <li>It shows all the answers on one easy screen.</li>
-      </ul>
-      <b>Built with:</b> JavaScript
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="140" align="center">
       <a href="https://github.com/pateltirth128/aws-cloudtrail-security-monitoring"><img src="aws.png" width="100" alt="AWS logo" /></a>
     </td>
     <td>
@@ -62,6 +45,23 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
         <li>I tested it by pretending to break into my own account.</li>
       </ul>
       <b>Built with:</b> AWS CloudTrail
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="140" align="center">
+      <a href="https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard"><img src="cerberus.png" width="100" alt="Cerberus logo" /></a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/pateltirth128/cerberus-threat-monitoring-dashboard">Cerberus Threat Monitoring Dashboard</a></h3>
+      <ul>
+        <li>You type in a website or internet address.</li>
+        <li>It checks 60+ "bad lists" to see if that address is known for trouble.</li>
+        <li>It shows all the answers on one easy screen.</li>
+      </ul>
+      <b>Built with:</b> JavaScript
     </td>
   </tr>
 </table>
