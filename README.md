@@ -112,6 +112,13 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
   <img src="https://img.shields.io/badge/Whonix-1C2B3A?style=for-the-badge" alt="Whonix" />
 </p>
 
+<h4 align="center">☁ Cloud security</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_GuardDuty-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS GuardDuty" />
+  <img src="https://img.shields.io/badge/AWS_Security_Hub-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Security Hub" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge" alt="Microsoft Sentinel" />
+</p>
+
 <h4 align="center">🧪 Testing and vulnerabilities</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
@@ -128,12 +135,6 @@ I'm a Computer Science student at the University of Regina (2024 to 2028). I lik
   <img src="https://img.shields.io/badge/Ventoy-1E8449?style=for-the-badge" alt="Ventoy" />
 </p>
 
-<h4 align="center">☁ Cloud security</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_GuardDuty-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS GuardDuty" />
-  <img src="https://img.shields.io/badge/AWS_Security_Hub-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Security Hub" />
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge" alt="Microsoft Sentinel" />
-</p>
 
 <h4 align="center">🌐 Network</h4>
 <p align="center">
