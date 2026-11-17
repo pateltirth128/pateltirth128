@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Tirth Patel 😉
+# Hey, I'm Tirth Patel
 
 **Computer Science student at the University of Regina**
 
@@ -13,20 +13,21 @@
 
 ---
 
-## 🔭 What I'm focused on
+## What I'm focused on
 
 - Looking for a co-op or internship with the help of U of R Co-op Program/ External too
 - Learning new things
+
 ---
 
-## ✡︎ More about me
+## More about me
 <br>
 
 Away from the screen, I love playing chess, and underwater swimming is my favourite hobby. I'm also fascinated by the deep ocean. Most of it has never been explored by anyone, and I'd love to see some of it one day.
 
 ---
 
-## 🛠 Projects
+## Projects
 
 <table>
   <tr>
@@ -77,7 +78,7 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
 
 ---
 
-## 🧰 Tools I use
+## Tools I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,nextjs,tailwind,aws,vercel,git&theme=dark" alt="Python, C++, JavaScript, TypeScript, Next.js, Tailwind CSS, AWS, Vercel, Git" />
@@ -85,9 +86,9 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
 
 ---
 
-## 🚀 Tools I want to work with
+## Tools I want to work with
 
-<h4 align="center">🛡 Things I Love </h4>
+<h4 align="center">Things I Love</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic SIEM" />
@@ -99,7 +100,7 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
   <img src="https://img.shields.io/badge/TheHive-B7950B?style=for-the-badge" alt="TheHive" />
 </p>
 
-<h4 align="center">🕶 Privacy and anonymity</h4>
+<h4 align="center">Privacy and anonymity</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor Browser" />
   <img src="https://img.shields.io/badge/Onion_Services-59316B?style=for-the-badge&logo=torproject&logoColor=white" alt="Onion Services" />
@@ -108,14 +109,14 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
   <img src="https://img.shields.io/badge/Whonix-1C2B3A?style=for-the-badge" alt="Whonix" />
 </p>
 
-<h4 align="center">☁ Cloud security</h4>
+<h4 align="center">Cloud security</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_GuardDuty-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS GuardDuty" />
   <img src="https://img.shields.io/badge/AWS_Security_Hub-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Security Hub" />
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge" alt="Microsoft Sentinel" />
 </p>
 
-<h4 align="center">🧪 Testing and vulnerabilities</h4>
+<h4 align="center">Testing and vulnerabilities</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
@@ -123,7 +124,7 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
   <img src="https://img.shields.io/badge/OpenVAS-66C430?style=for-the-badge" alt="OpenVAS" />
 </p>
 
-<h4 align="center">💿 Bootable and security OS</h4>
+<h4 align="center">Bootable and security OS</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Parrot_OS-0E7490?style=for-the-badge&logo=parrotsecurity&logoColor=white" alt="Parrot OS" />
@@ -131,14 +132,14 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
   <img src="https://img.shields.io/badge/Ventoy-1E8449?style=for-the-badge" alt="Ventoy" />
 </p>
 
-<h4 align="center">🔎 Forensics</h4>
+<h4 align="center">Forensics</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Autopsy-1B4F72?style=for-the-badge" alt="Autopsy" />
   <img src="https://img.shields.io/badge/Volatility-6C3483?style=for-the-badge" alt="Volatility" />
   <img src="https://img.shields.io/badge/FTK_Imager-34495E?style=for-the-badge" alt="FTK Imager" />
 </p>
 
-<h4 align="center">🌐 Network</h4>
+<h4 align="center">Network</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap" />
@@ -149,11 +150,18 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tirth1228"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjYuNSIgY3k9IjYuNSIgcj0iMiIgZmlsbD0iIzBBNjZDMiIvPjxyZWN0IHg9IjQuNzUiIHk9IjkuNSIgd2lkdGg9IjMuNSIgaGVpZ2h0PSIxMCIgZmlsbD0iIzBBNjZDMiIvPjxwYXRoIGQ9Ik0xMC41IDkuNWgzLjN2MS41Yy42LTEgMS44LTEuOCAzLjQtMS44IDIuNiAwIDMuMyAxLjcgMy4zIDQuMnY2LjFoLTMuNXYtNS40YzAtMS4yLS4zLTItMS40LTItMS4yIDAtMS43LjktMS43IDIuMXY1LjNoLTMuNHoiIGZpbGw9IiMwQTY2QzIiLz48L3N2Zz4K" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/_tirth128"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:pateltirth1228@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-<img src="https://raw.githubusercontent.com/pateltirth128/pateltirth128/output/snake-redalert.svg">
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pateltirth128/pateltirth128/output/snake-redalert.svg" width="100%" alt="Snake eating my contribution graph" />
+</p>
