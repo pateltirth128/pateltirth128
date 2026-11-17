@@ -156,3 +156,4 @@ Away from the screen, I love playing chess, and underwater swimming is my favour
   <a href="https://www.instagram.com/_tirth128"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:pateltirth1228@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake-redalert.svg">
